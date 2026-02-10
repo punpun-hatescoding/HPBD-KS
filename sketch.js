@@ -57,7 +57,7 @@ function draw() {
 );   
   text("HAPPY 21ST BIRTHDAY!!!! ", 0, 0); // Main text at center
   text("❤️‍🔥👾❤️‍🔥", 0, 40); // Spacer
-  text("TUI IU BA NHIEU LAM KS OI☘️", 0, 80); // Subtext below 80 pixels from main
+  text("TUI IU BA NHIEU LAM KS OI ☘️", 0, 80); // Subtext below 80 pixels from main
   // Instruction Text 
   textSize(20);           
   fill(200, 200, 255); 
